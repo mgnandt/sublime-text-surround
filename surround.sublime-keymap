@@ -1,0 +1,5 @@
+[
+  { "keys": ["ctrl+shift+a"], "command": "add_surround" },
+  { "keys": ["ctrl+shift+d"], "command": "delete_surround" },
+  { "keys": ["ctrl+shift+r"], "command": "replace_surround" }
+]
